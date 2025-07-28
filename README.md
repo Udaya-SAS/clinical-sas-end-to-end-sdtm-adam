@@ -69,3 +69,8 @@ clinical-sas-sdtm-adam-project/
 This project uses **synthetic/sample data for learning and demonstration purposes only**. No real patient data is included.
 
 ---
+
+Author
+[Mogili Udayasri]
+Clinical SAS Programmer | CDISC SDTM & ADaM Implementation |BSC STATISTICS
+📧 Email: your-email@example.com
